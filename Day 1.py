@@ -1,4 +1,4 @@
-""" This is Day 1 challenge in 30 days of code by HackerRank """ 
+""" This is Day 1 challenge (Data Types) in 30 days of code by HackerRank """ 
 
 """ Task - 
 Complete the code in the editor below. The variables i, d, and s are already declared and initialized for you. You must:

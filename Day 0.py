@@ -1,4 +1,4 @@
-""" This is Day 0 in 30 days of code by HackerRank 
+""" This is Day 0 (Hello World) in 30 days of code by HackerRank 
 	I am using Python3 to solve this and other upcoming challenges """
 
 """ Task - 
